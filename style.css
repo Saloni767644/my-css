@@ -1,0 +1,62 @@
+body{
+    background-color: #0d1a47;
+}
+
+
+/* Add some basic styling to make the page look decent */
+body {
+    font-family: Arial, sans-serif;
+    .header{
+padding: 10px;
+text-align: center;
+background: #08182f;
+color: rgb(220, 222, 233);
+font-size: 20px;
+}
+
+}
+.restaurant {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #c1d1f1;
+    border-radius: 10px;
+    width: 300px;
+    display: inline-block;
+}
+.restaurant img {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 10px 10px 0 0;
+}
+.restaurant a {
+    text-decoration: none;
+    color: #0d1a47;
+}
+.restaurant a:hover {
+    color: #b41818;
+}
+
+footer{
+    background-color: #08182f;
+    color: whitesmoke;
+    text-align: center;
+
+}
+
+#a{
+    background-color: #08182f;
+    color: white;
+}
+
+#c{
+    background-color: rgb(109, 167, 224);
+    color: #08182f;
+}
+pre{
+    color: white;
+}
+body{
+    background-image: url();
+}
+
